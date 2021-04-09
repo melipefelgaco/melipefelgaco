@@ -1,4 +1,4 @@
-### Hi there 👋
+![Banner](https://github.com/fmagesty/fmagesty/blob/main/banner.mp4)
 
 - 🔭 Currently studying more every day
 - 🌱 Currently learning React and other technologies
