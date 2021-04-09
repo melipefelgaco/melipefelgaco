@@ -1,4 +1,8 @@
-![Banner](https://github.com/fmagesty/fmagesty/blob/main/banner.png)
+<p align="center">
+  <img src="https://github.com/fmagesty/fmagesty/blob/main/banner.png">
+</p>
+
+
 
 # Felipe Melgaço Magesty Silveira
 
