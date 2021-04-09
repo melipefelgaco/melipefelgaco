@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Currently studying more every day
-- 🌱 Currently learning React and 
+- 🌱 Currently learning React and other technologies
 - 📫 How to reach me: fmagesty@gmail.com
 
 <!--
