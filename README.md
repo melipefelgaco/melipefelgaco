@@ -1,6 +1,8 @@
 ![Banner](https://github.com/fmagesty/fmagesty/blob/main/banner.png)
 
-- 🔭 Currently studying more every day
+# Felipe Melgaço Magesty Silveira
+
+- 🔭 Currently studying more technologies every day
 - 🌱 Currently learning React and other technologies
 - 📫 How to reach me: fmagesty@gmail.com
 
