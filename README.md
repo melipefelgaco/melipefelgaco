@@ -1,4 +1,4 @@
-![Banner](https://github.com/fmagesty/fmagesty/blob/main/banner.mp4)
+![Banner](https://github.com/fmagesty/fmagesty/blob/main/banner.png)
 
 - 🔭 Currently studying more every day
 - 🌱 Currently learning React and other technologies
