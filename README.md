@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 Currently studying more every day
+- 🌱 Currently learning React and 
+- 📫 How to reach me: fmagesty@gmail.com
+
 <!--
 **fmagesty/fmagesty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
