@@ -1,9 +1,13 @@
 import './App.css';
+import Header from './Components/Header';
+import About from './Components/About';
+
 
 function App() {
   return (
     <div className="App">
-      <h1>teste portifolio</h1>
+      <Header />
+      <About />
     </div>
   );
 }
