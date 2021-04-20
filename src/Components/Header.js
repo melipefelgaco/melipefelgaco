@@ -6,23 +6,23 @@ import Button from 'react-bootstrap/Button';
 
 
 
-const Header = () => {
 
+const Header = () => {
     return (
-    <div className="navbar">
-        <Navbar fixed="top" bg="dark" variant="dark">
-        <Navbar.Brand href="#home">Navbar</Navbar.Brand>
-        <Nav className="mr-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#features">Features</Nav.Link>
-            <Nav.Link href="#pricing">Pricing</Nav.Link>
-        </Nav>
-        <div className="ld-mode">
-            <Button variant="light">Light mode</Button> <Button variant="dark">Dark mode</Button>
-        </div>
-        </Navbar>
-        
-    </div>
+<div className="navbar-container">
+    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+    <Navbar.Brand href="#home">Felipe Melgaço Magesty Silveira</Navbar.Brand>
+    <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+    <Navbar.Collapse id="responsive-navbar-nav">
+    <Nav className="mr-auto">
+            <Nav.Link href="#projects">Projects</Nav.Link>
+            <Nav.Link href="#about">About</Nav.Link>
+            <Nav.Link href="#contact">Contact</Nav.Link>
+    </Nav>
+    </Navbar.Collapse>
+    <Button variant="light">Light mode</Button><Button variant="dark">Dark mode</Button>
+</Navbar>
+</div>
     )
 }
 

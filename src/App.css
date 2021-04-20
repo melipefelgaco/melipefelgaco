@@ -10,17 +10,25 @@
 body {
   background-color: var(--almostBlack);
   color: white;
-  display: flex;
-  flex-direction: column;
+  text-align: center;
 }
-.ld-mode {
-  /* padding: 0.5rem; */
-  margin: auto;
-  background-color: violet;
-  justify-content: right;
+
+.navbar-container {
+  margin-bottom: 3rem;
 }
-.navbar {
-  padding: 0.5rem;
-  margin: auto;
-  background-color: violet;
+.projects {
+  margin-bottom: 3rem;
+}
+h4 {
+  color: orange;
+}
+h4,
+p {
+  text-align: justify;
+}
+.about {
+  margin-bottom: 3rem;
+}
+.contact {
+  margin-bottom: 3rem;
 }
