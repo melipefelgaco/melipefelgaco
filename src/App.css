@@ -1,34 +1,35 @@
-:root {
-  --almostBlack: #191923;
-  --almostWhite: #fbfef9;
-  --darkGreen: #071e22;
-  --mediumGreen: #1d7874;
-  --lightGreen: #679289;
-  --crayola: #f4c095;
-}
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&display=swap");
 
 body {
-  background-color: var(--almostBlack);
-  color: white;
   text-align: center;
+  font-family: "Montserrat", sans-serif;
+  line-height: 150%;
 }
 
 .navbar-container {
   margin-bottom: 3rem;
 }
-.projects {
-  margin-bottom: 3rem;
+.mr-auto :hover {
+  border-top: orange solid;
 }
-h4 {
+.projects {
+  margin-top: 3rem;
+}
+h1 {
   color: orange;
 }
-h4,
-p {
-  text-align: justify;
+.project-name {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 .about {
-  margin-bottom: 3rem;
+  margin-top: 3rem;
 }
 .contact {
-  margin-bottom: 3rem;
+  margin-top: 3rem;
+  padding-bottom: 3rem; /* just to not have a white space at the end of the page when in darkmode */
+}
+.icon-btn {
+  border-radius: 0.5rem;
+  background-color: white;
 }
