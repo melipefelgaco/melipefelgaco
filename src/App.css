@@ -1,22 +1,23 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400&display=swap");
-
 body {
   text-align: center;
-  font-family: "Montserrat", sans-serif;
   line-height: 150%;
+  font-family: "Roboto", sans-serif;
 }
 
 .navbar-container {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 .mr-auto :hover {
-  border-top: orange solid;
+  border-top: orangered solid;
 }
 .projects {
-  margin-top: 3rem;
+  /* margin-top: 3rem; */
 }
 h1 {
-  color: orange;
+  margin-bottom: 1.5rem;
+}
+h4 {
+  color: orangered;
 }
 .project-name {
   margin-top: 2rem;

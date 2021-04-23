@@ -2,22 +2,29 @@ import React from "react";
 
 const Projects = () => {
   return (
-    <div className="projects">
+    <div className="projects" id="projects">
       <h1>My projects</h1>
       <div className="project-name">
         <h4>Currency Converter</h4>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-          accusamus, mollitia eveniet quae saepe ratione debitis sequi explicabo
-          magnam? Ullam cum doloremque sequi laudantium? Dolorem sunt odio
-          harum. Nam enim saepe ducimus quibusdam laboriosam excepturi?
-          Repellendus, assumenda distinctio, quibusdam, aliquam explicabo soluta
-          veritatis repudiandae voluptate ducimus reiciendis adipisci quam
-          neque!
+          Currency Converter was a project that initially started with vanilla
+          JS and CSS using Bootstrap. Only later it was remade in React. The
+          calculation when it was first deployed used to be based on an API that
+          later changed to a model that required the user to pay for a
+          key to exchange the
+          currency. So I made the change to what is now the current working API.
+          The current API happens to sometimes go down but hey, at least it's
+          free.It was a very fun project to make, and it was my first deployed
+          project. Currently it converts between
+          the following currencies: BRL, USD and EUR.
         </p>
         <p>
           Website:{" "}
-          <a href="https://fmagesty.github.io/currency-converter/">
+          <a
+            target={"_blank"}
+            rel="noreferrer"
+            href="https://fmagesty.github.io/currency-converter/"
+          >
             Currency Converter
           </a>
         </p>
@@ -25,16 +32,19 @@ const Projects = () => {
       <div className="project-name">
         <h4>Search Ships using the Star Wars API</h4>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto
-          quisquam dolores quam quae maxime, dolore vel quo fuga quidem!
-          Deleniti doloremque aliquam, ab, ad animi totam assumenda, quidem ut
-          ipsa dolorem qui nihil! Soluta dignissimos, odio dolore harum
-          voluptatem est aperiam similique tempora ipsa iure laborum, illum
-          necessitatibus veritatis iusto.
+          This project is all about working with an API and Json data. It was a
+          project developed by the PodCodar community and asked the developer to
+          search the starwar ships on the API and show it's information without
+          using any library that worked with it. This was a good challenge and
+          interesting project. It was made in React.
         </p>
         <p>
           Website:{" "}
-          <a href="https://fmagesty.github.io/react-sw-api/">
+          <a
+            target={"_blank"}
+            rel="noreferrer"
+            href="https://fmagesty.github.io/react-sw-api/"
+          >
             Search Ships using the Star Wars API
           </a>
         </p>
@@ -42,16 +52,18 @@ const Projects = () => {
       <div className="project-name">
         <h4>Escape From Tarkov: Ballistics Simulator</h4>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto sint
-          veniam, asperiores eos voluptates mollitia omnis! Fugit sapiente eum
-          exercitationem perferendis eaque modi obcaecati deleniti veritatis hic
-          inventore nesciunt ducimus voluptatibus mollitia animi tenetur, cumque
-          quae quaerat iusto? Doloribus commodi iusto consequatur non sint
-          doloremque ullam rerum at sunt suscipit!
+          EFT: Ballistics Simulator was made for players to solve the problem of
+          not knowing about which of the ingame ammo to use. Until the
+          developers of EFT release a public API this one will be my only EFT
+          project for the moment.
         </p>
         <p>
           Website:{" "}
-          <a href="https://fmagesty.github.io/react-tarkov-ballistics/">
+          <a
+            target={"_blank"}
+            rel="noreferrer"
+            href="https://fmagesty.github.io/react-tarkov-ballistics/"
+          >
             Escape From Tarkov: Ballistics Simulator
           </a>
         </p>
