@@ -6,6 +6,8 @@
 
 # Felipe Melgaço Magesty Silveira
 
+Current portifolio (wip): https://fmagesty.github.io/fmagesty/
+
 - 🔭 Currently studying more technologies every single day
 - 🌱 Currently learning React and other technologies
 - 📫 How to reach me: fmagesty@gmail.com
