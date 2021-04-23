@@ -2,9 +2,13 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div className="contact">
+    <div className="contact" id="contact">
       <h1>How to contact</h1>
-      <a href="https://github.com/fmagesty">My Github Profile</a>
+      <a target={"_blank"} rel="noreferrer" href="https://github.com/fmagesty">
+        My Github Profile
+      </a>
+      <br />
+      <br />
       <div>E-mail: fmagesty@gmail.com</div>
     </div>
   );
