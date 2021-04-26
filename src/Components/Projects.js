@@ -7,7 +7,6 @@ const Projects = () => {
       <h1>My projects</h1>
       <div className="project-name">
         <h4>Currency Converter</h4>
-        <img src={conversorIMG} alt="" />
         <p>
           Currency Converter was a project that initially started with vanilla
           JS and CSS using Bootstrap. Only later it was remade in React. The

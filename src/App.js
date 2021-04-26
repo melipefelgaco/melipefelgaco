@@ -35,9 +35,9 @@ export default function App() {
     >
       <Header themeColors={themeColors} toggleTheme={toggleTheme} />
       <ProjectSection />
-      {/* <Projects /> */}
-      {/* <About /> */}
-      {/* <Contact /> */}
+      <Projects />
+      <About />
+      <Contact />
     </div>
   );
 }
