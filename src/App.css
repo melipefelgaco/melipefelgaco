@@ -3,34 +3,19 @@ body {
   line-height: 150%;
   font-family: "Roboto", sans-serif;
 }
-
-.navbar-container {
-  margin-bottom: 2rem;
+#project-section {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  padding: 1rem;
+}
+#project-card {
+  display: flex;
+  justify-content: space-around;
 }
 .mr-auto :hover {
   border-top: orangered solid;
 }
-.projects {
-  /* margin-top: 3rem; */
-}
-h1 {
-  margin-bottom: 1.5rem;
-}
 h4 {
   color: orangered;
-}
-.project-name {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-.about {
-  margin-top: 3rem;
-}
-.contact {
-  margin-top: 3rem;
-  padding-bottom: 3rem; /* just to not have a white space at the end of the page when in darkmode */
-}
-.icon-btn {
-  border-radius: 0.5rem;
-  background-color: white;
 }

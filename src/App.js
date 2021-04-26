@@ -4,6 +4,7 @@ import Projects from "./Components/Projects";
 import About from "./Components/About";
 import Contact from "./Components/Contact";
 import { useState } from "react";
+import ProjectSection from "./Components/ProjectSection/ProjectSection";
 
 const colors = {
   dark: {
@@ -33,9 +34,10 @@ export default function App() {
       }}
     >
       <Header themeColors={themeColors} toggleTheme={toggleTheme} />
-      <Projects />
-      <About />
-      <Contact />
+      <ProjectSection />
+      {/* <Projects /> */}
+      {/* <About /> */}
+      {/* <Contact /> */}
     </div>
   );
 }
