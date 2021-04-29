@@ -1,5 +1,4 @@
 import React from "react";
-import conversorIMG from "../images/curConverter.png";
 
 const Projects = () => {
   return (

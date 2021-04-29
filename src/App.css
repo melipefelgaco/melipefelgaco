@@ -4,19 +4,43 @@ body {
   font-family: "Roboto", sans-serif;
   display: flex;
 }
-#project-section {
+.section {
   display: flex;
-  width: 100%;
+  /* width: 100%; */
   flex-direction: column;
   padding: 1rem;
 }
-#project-card {
+.card {
   display: flex;
   justify-content: space-around;
+  flex-direction: row;
+  background-color: inherit;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.card > * {
+  flex: 1;
+}
+.about {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.contact {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 .mr-auto :hover {
   border-top: orangered solid;
 }
 h4 {
   color: orangered;
+}
+img {
+  /* width: 845px; */
+  /* height: 537px; */
+  display: block;
+  max-width: 845px;
+  max-height: 537px;
+  width: auto;
+  height: auto;
 }
