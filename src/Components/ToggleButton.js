@@ -1,3 +1,5 @@
+import { Brightness2Outlined, WbSunny } from "@material-ui/icons/";
+
 function ToggleButton({ themeColors, toggleTheme }) {
   return (
     <button
@@ -8,7 +10,10 @@ function ToggleButton({ themeColors, toggleTheme }) {
       }}
       onClick={() => toggleTheme()}
     >
-      Toggle theme
+      <WbSunny style={{ color: themeColors?.bg ? "white" : "black" }} />
+      <Brightness2Outlined
+        style={{ color: themeColors?.bg ? "black" : "white" }}
+      />
     </button>
   );
 }

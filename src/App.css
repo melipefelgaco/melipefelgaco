@@ -2,35 +2,45 @@ body {
   text-align: center;
   line-height: 150%;
   font-family: "Roboto", sans-serif;
+  display: flex;
 }
-
-.navbar-container {
-  margin-bottom: 2rem;
+.section {
+  display: flex;
+  /* width: 100%; */
+  flex-direction: column;
+  padding: 1rem;
+}
+.card {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  background-color: inherit;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.card > * {
+  flex: 1;
+}
+.about {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.contact {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 .mr-auto :hover {
   border-top: orangered solid;
 }
-.projects {
-  /* margin-top: 3rem; */
-}
-h1 {
-  margin-bottom: 1.5rem;
-}
 h4 {
   color: orangered;
 }
-.project-name {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-.about {
-  margin-top: 3rem;
-}
-.contact {
-  margin-top: 3rem;
-  padding-bottom: 3rem; /* just to not have a white space at the end of the page when in darkmode */
-}
-.icon-btn {
-  border-radius: 0.5rem;
-  background-color: white;
+img {
+  /* width: 845px; */
+  /* height: 537px; */
+  display: block;
+  max-width: 845px;
+  max-height: 537px;
+  width: auto;
+  height: auto;
 }
