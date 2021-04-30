@@ -4,6 +4,10 @@ body {
   font-family: "Roboto", sans-serif;
   display: flex;
 }
+.toggle-btn {
+  border-radius: 20%;
+  margin-right: 0.5rem;
+}
 .section {
   display: flex;
   /* width: 100%; */
