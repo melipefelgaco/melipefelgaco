@@ -1,13 +1,12 @@
 import "./App.css";
+import { useState } from "react";
 import Header from "./Components/Header";
-// import Projects from "./Components/Projects";
+import ProjectCard from "./Components/ProjectCard";
 import About from "./Components/About";
 import Contact from "./Components/Contact";
-import { useState } from "react";
-import ProjectCard from "./Components/ProjectCard";
 import cConverterImg from "./images/cConverter.png";
-import tarkovImg from "./images/tarkovBallistics.png";
 import starWarsImg from "./images/starWarsApi.png";
+import tarkovImg from "./images/tarkovBallistics.png";
 
 const colors = {
   dark: {
@@ -38,7 +37,7 @@ export default function App() {
     >
       <Header themeColors={themeColors} toggleTheme={toggleTheme} />
       <h1>My projects</h1>
-      <div className="section">
+      <div className="section" id="projects">
         <ProjectCard
           className="card"
           title="Currency Converter"
@@ -57,7 +56,7 @@ export default function App() {
               and it was my first deployed
               project. Currently it converts between
               the following currencies: BRL, USD and EUR.
-              <p>
+              <p className="website">
                 Website:{" "}
                 <a
                   target={"_blank"}
@@ -82,7 +81,7 @@ export default function App() {
               information without using any library that worked with it. This
               was a good challenge and interesting project. It was made in
               React.
-              <p>
+              <p className="website">
                 Website:{" "}
                 <a
                   target={"_blank"}
@@ -105,7 +104,7 @@ export default function App() {
               problem of not knowing about which of the ingame ammo to use.
               Until the developers of EFT release a public API this one will be
               my only EFT project for the moment.
-              <p>
+              <p className="website">
                 Website:{" "}
                 <a
                   target={"_blank"}
@@ -119,7 +118,6 @@ export default function App() {
           }
         />
       </div>
-      {/* <Projects /> */}
       <About />
       <Contact />
     </div>

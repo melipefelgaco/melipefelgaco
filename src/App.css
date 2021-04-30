@@ -21,6 +21,13 @@ body {
 .card > * {
   flex: 1;
 }
+.card > * > p {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+.website {
+  margin-top: 5rem;
+}
 .about {
   margin-top: 1rem;
   margin-bottom: 1rem;
