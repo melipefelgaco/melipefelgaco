@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/fmagesty/static/css/main.bc59826d.chunk.css",
-    "main.js": "/fmagesty/static/js/main.136672dd.chunk.js",
-    "main.js.map": "/fmagesty/static/js/main.136672dd.chunk.js.map",
+    "main.css": "/fmagesty/static/css/main.37d8212f.chunk.css",
+    "main.js": "/fmagesty/static/js/main.aa328e83.chunk.js",
+    "main.js.map": "/fmagesty/static/js/main.aa328e83.chunk.js.map",
     "runtime-main.js": "/fmagesty/static/js/runtime-main.1caac627.js",
     "runtime-main.js.map": "/fmagesty/static/js/runtime-main.1caac627.js.map",
     "static/js/2.66c41969.chunk.js": "/fmagesty/static/js/2.66c41969.chunk.js",
     "static/js/2.66c41969.chunk.js.map": "/fmagesty/static/js/2.66c41969.chunk.js.map",
     "index.html": "/fmagesty/index.html",
-    "static/css/main.bc59826d.chunk.css.map": "/fmagesty/static/css/main.bc59826d.chunk.css.map",
+    "static/css/main.37d8212f.chunk.css.map": "/fmagesty/static/css/main.37d8212f.chunk.css.map",
     "static/js/2.66c41969.chunk.js.LICENSE.txt": "/fmagesty/static/js/2.66c41969.chunk.js.LICENSE.txt",
     "static/media/cConverter.b1022e13.png": "/fmagesty/static/media/cConverter.b1022e13.png",
     "static/media/starWarsApi.a71827f1.png": "/fmagesty/static/media/starWarsApi.a71827f1.png",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.1caac627.js",
     "static/js/2.66c41969.chunk.js",
-    "static/css/main.bc59826d.chunk.css",
-    "static/js/main.136672dd.chunk.js"
+    "static/css/main.37d8212f.chunk.css",
+    "static/js/main.aa328e83.chunk.js"
   ]
 }
