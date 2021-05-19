@@ -4,10 +4,11 @@ import data from "../data";
 const ProjectCard = () => {
   return (
     <div>
+      <h1>My projects</h1>
       {data.map((data) => (
         <div className="card">
           <img src={data.img} alt="" />
-          <div>
+          <div className="info-card">
             <h4>{data.title}</h4>
             <p>{data.text}</p>
             <p className="website">

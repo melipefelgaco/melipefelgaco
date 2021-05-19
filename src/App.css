@@ -8,9 +8,9 @@ body {
   border-radius: 20%;
   margin-right: 0.5rem;
 }
-.section {
+.project-cards {
   display: flex;
-  /* width: 100%; */
+  width: 100%;
   flex-direction: column;
   padding: 1rem;
 }
@@ -22,24 +22,6 @@ body {
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
-.card > * {
-  flex: 1;
-}
-.card > * > p {
-  margin-top: 3rem;
-  margin-bottom: 1rem;
-}
-.website {
-  margin-top: 5rem;
-}
-.about {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
-.contact {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
 .mr-auto :hover {
   border-top: orangered solid;
 }
@@ -47,11 +29,17 @@ h4 {
   color: orangered;
 }
 img {
-  /* width: 845px; */
-  /* height: 537px; */
   display: block;
   max-width: 845px;
   max-height: 537px;
   width: auto;
   height: auto;
+}
+.info-card {
+  display: block;
+  max-width: 845px;
+}
+h1 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
