@@ -33,7 +33,7 @@ export default function App() {
       }}
     >
       <Header themeColors={themeColors} toggleTheme={toggleTheme} />
-      <div className="card-section">
+      <div className="project-cards" id="project-cards">
         <ProjectCard />
       </div>
       <About />
