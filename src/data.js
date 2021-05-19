@@ -25,7 +25,7 @@ const data = [
   {
     img: simInt,
     title: "React Forms",
-    text: "React Forms was made to use forms and deal with erros that might appear. It deals with: user sign in, user login and profile update",
+    text: "React Forms was made to use forms and deal with errors that might appear. It consumes the API via Postman and deals with: user sign in, user login and profile update. This project depends on a 3rd party backend server to run properly, beyond my reach. It will run smoothly as long as the backend holds, but the code is still replicable on other projects, if needed.",
     website: "https://fmagesty.github.io/react-forms/",
   },
 ];
