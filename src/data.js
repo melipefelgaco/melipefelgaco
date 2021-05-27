@@ -2,6 +2,8 @@ import cConverterImg from "./images/cConverter.png";
 import starWarsImg from "./images/starWarsApi.png";
 import tarkovImg from "./images/tarkovBallistics.png";
 import simInt from "./images/simInt.png";
+import buttonAesthetics from "./images/buttonAesthetics.png";
+import bookFinder from "./images/bookFinder.png";
 
 const data = [
   {
@@ -27,6 +29,18 @@ const data = [
     title: "React Forms",
     text: "React Forms was made to use forms and deal with errors that might appear. It consumes the API via Postman and deals with: user sign in, user login and profile update. This project depends on a 3rd party backend server to run properly, beyond my reach. It will run smoothly as long as the backend holds, but the code is still replicable on other projects, if needed.",
     website: "https://fmagesty.github.io/react-forms/",
+  },
+  {
+    img: bookFinder,
+    title: "Find Your Book",
+    text: "Find Your Book uses the Google Books API to return these books after a quick search. It shows details about each book. The project was made to enter a front-end challenge.",
+    website: "https://fmagesty.github.io/book-finder/",
+  },
+  {
+    img: buttonAesthetics,
+    title: "Button Aesthetics",
+    text: "This page is just a very simple project to generate random colored buttons. The user types a value between the numbers 1 to 1000 and it automatically generates that number of buttons, each one using random RGB colors. Clicking a button will change the screen background but that's all.",
+    website: "https://fmagesty.github.io/button-aesthetics/",
   },
 ];
 
