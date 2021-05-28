@@ -1,9 +1,9 @@
-import cConverterImg from "./images/cConverter.png";
-import starWarsImg from "./images/starWarsApi.png";
-import tarkovImg from "./images/tarkovBallistics.png";
-import simInt from "./images/simInt.png";
-import buttonAesthetics from "./images/buttonAesthetics.png";
-import bookFinder from "./images/bookFinder.png";
+import cConverterImg from "./Assets/cConverter.png";
+import starWarsImg from "./Assets/starWarsApi.png";
+import tarkovImg from "./Assets/tarkovBallistics.png";
+import simInt from "./Assets/simInt.png";
+import buttonAesthetics from "./Assets/buttonAesthetics.png";
+import bookFinder from "./Assets/bookFinder.png";
 
 const data = [
   {
@@ -14,8 +14,8 @@ const data = [
   },
   {
     img: starWarsImg,
-    title: "Search Ships using the Star Wars API",
-    text: "This project is all about working with an API and Json data. It was a project developed by the PodCodar community and asked the developer to search the starwar ships on the API and show it's information without using any library that worked with it. This was a good challenge and interesting project. It was made in React.",
+    title: "Search using the Star Wars API",
+    text: "This project is all about working with an API and Json data. It was a project developed by the PodCodar community and asked the developer to search the starwar ships on the API and show it's information without using any library that worked with it. This was a good challenge and interesting project. It was made in React. Currently it searches for ships but also characters and planets aswell.",
     website: "https://fmagesty.github.io/react-sw-api/",
   },
   {
