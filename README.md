@@ -2,9 +2,7 @@
   <img src="https://github.com/fmagesty/fmagesty/blob/main/banner.png">
 </p>
 
-
-
-# Felipe Melgaço Magesty Silveira
+# Felipe Melgaço Magesty
 
 Portfolio: https://fmagesty.github.io/fmagesty/
 
