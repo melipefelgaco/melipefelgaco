@@ -2,7 +2,7 @@ body {
   text-align: center;
   line-height: 150%;
   font-family: "Roboto", sans-serif;
-  display: flex;
+  box-sizing: border-box;
 }
 .toggle-btn {
   border-radius: 15%;
@@ -23,23 +23,28 @@ body {
   margin-bottom: 1rem;
 }
 .mr-auto :hover {
-  border-top: orangered solid;
+  border-top: white solid;
 }
-h4 {
-  color: orangered;
+.card-title {
+  text-decoration: underline;
 }
-img {
+.card-img {
   display: block;
-  max-width: 845px;
-  max-height: 537px;
-  width: auto;
-  height: auto;
+  width: 50%;
 }
 .info-card {
   display: block;
-  max-width: 900px;
+  width: 50%;
 }
-h1 {
+.section-title {
   margin-top: 2rem;
   margin-bottom: 2rem;
+}
+.navbar-brand {
+  margin-left: 1rem;
+}
+@media (max-width: 629px) {
+  .card-img {
+    display: none;
+  }
 }

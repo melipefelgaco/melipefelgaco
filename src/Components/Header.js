@@ -6,7 +6,7 @@ const Header = ({ themeColors, toggleTheme }) => {
   return (
     <div className="navbar-container">
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-        <Navbar.Brand>Felipe Melgaço Magesty Silveira</Navbar.Brand>
+        <Navbar.Brand>Felipe Melgaço Magesty</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
