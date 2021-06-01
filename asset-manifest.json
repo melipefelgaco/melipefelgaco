@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/fmagesty/static/css/main.95c3c163.chunk.css",
-    "main.js": "/fmagesty/static/js/main.c39142cd.chunk.js",
-    "main.js.map": "/fmagesty/static/js/main.c39142cd.chunk.js.map",
+    "main.css": "/fmagesty/static/css/main.5a7a67e0.chunk.css",
+    "main.js": "/fmagesty/static/js/main.e5f146ac.chunk.js",
+    "main.js.map": "/fmagesty/static/js/main.e5f146ac.chunk.js.map",
     "runtime-main.js": "/fmagesty/static/js/runtime-main.1caac627.js",
     "runtime-main.js.map": "/fmagesty/static/js/runtime-main.1caac627.js.map",
     "static/js/2.66c41969.chunk.js": "/fmagesty/static/js/2.66c41969.chunk.js",
     "static/js/2.66c41969.chunk.js.map": "/fmagesty/static/js/2.66c41969.chunk.js.map",
     "index.html": "/fmagesty/index.html",
-    "static/css/main.95c3c163.chunk.css.map": "/fmagesty/static/css/main.95c3c163.chunk.css.map",
+    "static/css/main.5a7a67e0.chunk.css.map": "/fmagesty/static/css/main.5a7a67e0.chunk.css.map",
     "static/js/2.66c41969.chunk.js.LICENSE.txt": "/fmagesty/static/js/2.66c41969.chunk.js.LICENSE.txt",
     "static/media/bookFinder.041a9667.png": "/fmagesty/static/media/bookFinder.041a9667.png",
     "static/media/buttonAesthetics.d35ca68f.png": "/fmagesty/static/media/buttonAesthetics.d35ca68f.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.1caac627.js",
     "static/js/2.66c41969.chunk.js",
-    "static/css/main.95c3c163.chunk.css",
-    "static/js/main.c39142cd.chunk.js"
+    "static/css/main.5a7a67e0.chunk.css",
+    "static/js/main.e5f146ac.chunk.js"
   ]
 }
