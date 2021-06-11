@@ -4,6 +4,7 @@ import tarkovImg from "./Assets/tarkovBallistics.png";
 import simInt from "./Assets/simInt.png";
 import buttonAesthetics from "./Assets/buttonAesthetics.png";
 import bookFinder from "./Assets/bookFinder.png";
+import quizShow from "./Assets/quizShow.png";
 
 const data = [
   {
@@ -41,6 +42,12 @@ const data = [
     title: "Button Aesthetics",
     text: "This page is just a very simple project to generate random colored buttons. The user types a value between the numbers 1 to 1000 and it automatically generates that number of buttons, each one using random RGB colors. Clicking a button will change the screen background but that's all.",
     website: "https://fmagesty.github.io/button-aesthetics/",
+  },
+  {
+    img: quizShow,
+    title: "Quiz Show",
+    text: "Quiz Show generates 50 questions based on the Open Trivia Database API (https://opentdb.com/) and keeps track of the user score from those 50 questions. The user can also choose which difficulty to play. There is a modal for each incorrect/correct answer clicked as feedback. The score is displayed at the end.",
+    website: "https://fmagesty.github.io/quiz-show/",
   },
 ];
 
