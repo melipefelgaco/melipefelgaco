@@ -17,6 +17,12 @@ const ProjectCard = () => {
                 {data.title}
               </a>
             </p>
+            <p>
+              Code:{" "}
+              <a target={"_blank"} rel="noreferrer" href={data.code}>
+                Github Repository
+              </a>
+            </p>
           </div>
         </div>
       ))}
