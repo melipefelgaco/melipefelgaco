@@ -5,7 +5,7 @@ import ToggleButton from "./ToggleButton";
 const Header = ({ themeColors, toggleTheme }) => {
   return (
     <div className="navbar-container">
-      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" id="navbar">
         <Navbar.Brand>Felipe Melgaço Magesty</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
