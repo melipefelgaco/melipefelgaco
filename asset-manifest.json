@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fmagesty/static/css/main.e99cadcb.chunk.css",
-    "main.js": "/fmagesty/static/js/main.47fd4ba1.chunk.js",
-    "main.js.map": "/fmagesty/static/js/main.47fd4ba1.chunk.js.map",
+    "main.js": "/fmagesty/static/js/main.f840eb5d.chunk.js",
+    "main.js.map": "/fmagesty/static/js/main.f840eb5d.chunk.js.map",
     "runtime-main.js": "/fmagesty/static/js/runtime-main.1caac627.js",
     "runtime-main.js.map": "/fmagesty/static/js/runtime-main.1caac627.js.map",
     "static/js/2.66c41969.chunk.js": "/fmagesty/static/js/2.66c41969.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/bookFinder.041a9667.png": "/fmagesty/static/media/bookFinder.041a9667.png",
     "static/media/buttonAesthetics.d35ca68f.png": "/fmagesty/static/media/buttonAesthetics.d35ca68f.png",
     "static/media/cConverter.b1022e13.png": "/fmagesty/static/media/cConverter.b1022e13.png",
-    "static/media/quizShow.5f76856d.png": "/fmagesty/static/media/quizShow.5f76856d.png",
+    "static/media/quizShow.8a5224af.png": "/fmagesty/static/media/quizShow.8a5224af.png",
     "static/media/simInt.aa28285f.png": "/fmagesty/static/media/simInt.aa28285f.png",
     "static/media/starWarsApi.a470b663.png": "/fmagesty/static/media/starWarsApi.a470b663.png",
     "static/media/tarkovBallistics.4ed60ddd.png": "/fmagesty/static/media/tarkovBallistics.4ed60ddd.png"
@@ -22,6 +22,6 @@
     "static/js/runtime-main.1caac627.js",
     "static/js/2.66c41969.chunk.js",
     "static/css/main.e99cadcb.chunk.css",
-    "static/js/main.47fd4ba1.chunk.js"
+    "static/js/main.f840eb5d.chunk.js"
   ]
 }
