@@ -5,6 +5,7 @@ import simInt from "./Assets/simInt.png";
 import buttonAesthetics from "./Assets/buttonAesthetics.png";
 import bookFinder from "./Assets/bookFinder.png";
 import quizShow from "./Assets/quizShow.png";
+import musicFinder from "./Assets/musicFinder.png";
 
 const data = [
   {
@@ -55,6 +56,13 @@ const data = [
     text: "Quiz Show generates 50 questions based on the Open Trivia Database API (https://opentdb.com/) and keeps track of the user score from those 50 questions. The user can also choose which difficulty to play. There is a modal for each incorrect/correct answer clicked as feedback. The score is displayed at the end.",
     website: "https://fmagesty.github.io/quiz-show/",
     code: "https://github.com/fmagesty/quiz-show",
+  },
+  {
+    img: musicFinder,
+    title: "Music Finder",
+    text: "Music finder interacts with 2 APIs: the Youtube API and Ticketmaster API. It lets you search for the band/artist of your choosing and return all the related youtube videos from it. For each video there is a button to show the events of the band/artist as well.",
+    website: "coming soon",
+    code: "https://github.com/fmagesty/music-finder",
   },
 ];
 
