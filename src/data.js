@@ -61,7 +61,7 @@ const data = [
     img: musicFinder,
     title: "Music Finder",
     text: "Music finder interacts with 2 APIs: the Youtube API and Ticketmaster API. It lets you search for the band/artist of your choosing and return all the related youtube videos from it. For each video there is a button to show the events of the band/artist as well.",
-    website: "coming soon",
+    website: "https://fmagesty.github.io/music-finder/",
     code: "https://github.com/fmagesty/music-finder",
   },
 ];
