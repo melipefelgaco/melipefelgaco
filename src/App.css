@@ -20,7 +20,7 @@ body {
   flex-direction: row;
   background-color: inherit;
   margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 5rem;
 }
 .mr-auto :hover {
   border-top: white solid;
