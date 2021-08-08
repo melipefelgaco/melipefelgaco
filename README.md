@@ -4,7 +4,7 @@
 
 # Felipe Melgaço Magesty
 
-## Portfolio: [Website](https://fmagesty.github.io/fmagesty/)
+## [Portfolio](https://fmagesty.github.io/fmagesty/)
 
 - 🔭 Currently studying more technologies every single day
 - 🌱 Currently working with React and other technologies
