@@ -7,7 +7,7 @@
 ## ⚡ [Portfolio](https://fmagesty.github.io/fmagesty/) ⚡
 
 - 🔭 Currently studying more technologies every single day
-- 🌱 Currently working with React and other technologies
+- 🌱 Currently working with React/Next and other technologies
 - 📫 How to reach me: fmagesty@gmail.com
 
 <!--
