@@ -16,20 +16,6 @@ const data = [
     code: "https://github.com/fmagesty/currency-converter",
   },
   {
-    img: starWarsImg,
-    title: "Search using the Star Wars API",
-    text: "This project is all about working with an API and Json data. It was a project developed by the PodCodar community and asked the developer to search the starwar ships on the API and show it's information without using any library that worked with it. This was a good challenge and interesting project. It was made in React. Currently it searches for ships but also characters and planets aswell.",
-    website: "https://fmagesty.github.io/react-sw-api/",
-    code: "https://github.com/fmagesty/react-sw-api",
-  },
-  {
-    img: tarkovImg,
-    title: "Escape From Tarkov: Ballistics Simulator",
-    text: " EFT: Ballistics Simulator was made for players to solve the problem of not knowing about which of the ingame ammo to use. Until the developers of EFT release a public API this one will be my only EFT project for the moment.",
-    website: "https://fmagesty.github.io/react-tarkov-ballistics/",
-    code: "https://github.com/fmagesty/react-tarkov-ballistics",
-  },
-  {
     img: simInt,
     title: "React Forms",
     text: "React Forms was made to use forms and deal with errors that might appear. It consumes the API via Postman and deals with: user sign in, user login and profile update. This project depends on a 3rd party backend server to run properly, beyond my reach. It will run smoothly as long as the backend holds, but the code is still replicable on other projects, if needed.",
@@ -42,13 +28,6 @@ const data = [
     text: "Find Your Book uses the Google Books API to return these books after a quick search. It shows details about each book. The project was made to enter a front-end challenge.",
     website: "https://fmagesty.github.io/book-finder/",
     code: "https://github.com/fmagesty/book-finder",
-  },
-  {
-    img: buttonAesthetics,
-    title: "Button Aesthetics",
-    text: "This page is just a very simple project to generate random colored buttons. The user types a value between the numbers 1 to 1000 and it automatically generates that number of buttons, each one using random RGB colors. Clicking a button will change the screen background but that's all.",
-    website: "https://fmagesty.github.io/button-aesthetics/",
-    code: "https://github.com/fmagesty/button-aesthetics",
   },
   {
     img: quizShow,

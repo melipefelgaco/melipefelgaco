@@ -4,7 +4,7 @@ import data from "../data";
 const ProjectCard = () => {
   return (
     <div>
-      <h1 className="section-title">My projects</h1>
+      <h1 className="section-title">Some of my projects</h1>
       {data.map((data) => (
         <div className="card" key={data.title}>
           <img src={data.img} alt="project screenshot" className="card-img" />
