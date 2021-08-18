@@ -4,7 +4,9 @@
 
 # Felipe Melgaço Magesty
 
+<!--
 ## :rocket: [Portfolio](https://fmagesty.github.io/fmagesty/) :rocket:
+-->
 
 - 🔭 Currently studying more technologies every single day
 - 🌱 Currently working with React/Next and other technologies
