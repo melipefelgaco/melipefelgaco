@@ -8,5 +8,6 @@
 ## :rocket: [Portfolio](https://fmagesty.github.io/fmagesty/) :rocket:
 -->
 
-- 🌱 Always coding something cool even if it's just for fun. Trying to test new technologies on my personal projects whenever I have the time
+- 🌱 Always coding something cool even if it's just for fun. 
+- :rocket: Testing new technologies on my personal projects whenever I have the time
 - 📫 How to reach me: fmagesty@gmail.com
