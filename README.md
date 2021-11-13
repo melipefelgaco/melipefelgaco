@@ -8,6 +8,5 @@
 ## :rocket: [Portfolio](https://fmagesty.github.io/fmagesty/) :rocket:
 -->
 
-- 🔭 Currently studying more technologies every single day
-- 🌱 Currently working with React/Next and other technologies
+- 🌱 Always coding something cool even if it's just for fun. Trying to test new technologies on my personal projects whenever I have the time
 - 📫 How to reach me: fmagesty@gmail.com
