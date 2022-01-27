@@ -12,6 +12,6 @@
 
 - :rocket: Always testing new technologies on my personal projects whenever I can
 
-- :headphones: Fun fact: I'll just move away from the screen and walk back and forth while rotating a pen on my hand sometimes
+- :headphones: Fun fact: I'll just move away from the screen and walk back and forth while ~~rotating~~ trying to rotate a pen on my hand sometimes
 
 - 📫  How to reach me: fmagesty@gmail.com
