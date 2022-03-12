@@ -10,7 +10,7 @@
 
 - 🌱 Always coding something cool even if it's just for fun, sometimes I use GitLab but I love GitHub a little bit more :p
 
-- :rocket: Always testing new technologies on my personal projects whenever I can
+- :rocket: Testing new technologies on my personal projects whenever I can
 
 - :headphones: Fun fact: I'll just move away from the screen and walk back and forth while ~~rotating~~ trying to rotate a pen on my hand sometimes
 
