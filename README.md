@@ -8,10 +8,12 @@
 ## :rocket: [Portfolio](https://fmagesty.github.io/fmagesty/) :rocket:
 -->
 
-- 🌱 Always coding something cool even if it's just for fun, sometimes I use GitLab but I love GitHub a little bit more :p
+- 🌱 I have fun making some projects on my freetime. Most of them are open-source and can be accessed [here](https://github.com/fmagesty?tab=repositories)
 
-- :rocket: Testing new technologies on my personal projects whenever I can
+- :computer: Mainly using Ruby/Rails for backend and JavaScript/React/React-Native on frontend for my projects
 
-- :headphones: Fun fact: I'll just move away from the screen and walk back and forth while ~~rotating~~ trying to rotate a pen on my hand sometimes
+- :rocket: Testing new techs on my projects whenever I can. Currently studying dockerizing implementations
+
+- :headphones: Fun fact: I'll walk back and forth while ~~rotating~~ trying to rotate a pen on my hand sometimes
 
 - 📫  How to reach me: fmagesty@gmail.com
