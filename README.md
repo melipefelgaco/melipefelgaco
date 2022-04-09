@@ -12,7 +12,7 @@
 
 - :computer: Mainly using Ruby/Rails for backend and JavaScript/React/React-Native on frontend for my projects
 
-- :rocket: Testing new techs on my projects whenever I can. Currently studying dockerizing implementations
+- :rocket: Testing new techs on my projects whenever I can. Currently studying dockerizing implementations and design patterns
 
 - :headphones: Fun fact: I'll walk back and forth while ~~rotating~~ trying to rotate a pen on my hand sometimes
 
