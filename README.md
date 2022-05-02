@@ -8,7 +8,7 @@
 ## :rocket: [Portfolio](https://fmagesty.github.io/fmagesty/) :rocket:
 -->
 
-- 🌱 I have fun making some projects on my freetime. Most of them are open-source and can be accessed [here](https://github.com/fmagesty?tab=repositories)
+- 🌱 I have fun making some projects on my free time. Most of them are open-source and can be accessed [here](https://github.com/fmagesty?tab=repositories)
 
 - :computer: Mainly using Ruby/Rails for backend and JavaScript/React/React-Native on frontend for my projects
 
