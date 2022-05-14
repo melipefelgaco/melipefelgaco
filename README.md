@@ -8,11 +8,9 @@
 ## :rocket: [Portfolio](https://fmagesty.github.io/fmagesty/) :rocket:
 -->
 
-- 🌱 I have fun making some projects on my free time. Most of them are open-source and can be accessed [here](https://github.com/fmagesty?tab=repositories)
+- 🌱 I have fun making/contributing to open source projects
 
-- :computer: Mainly using Ruby/Rails for backend and JavaScript/React/React-Native on frontend for my projects
-
-- :rocket: Testing new techs on my projects whenever I can. Currently studying dockerizing implementations and design patterns
+- :computer: Currently using React/React-Native and Ruby on Rails daily but also trying some new languages/techs from time to time
 
 - :headphones: Fun fact: I'll walk back and forth while ~~rotating~~ trying to rotate a pen on my hand sometimes
 
