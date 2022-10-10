@@ -15,3 +15,8 @@
 - :headphones: Fun fact: I'll walk back and forth while ~~rotating~~ trying to rotate a pen on my hand sometimes
 
 - 📫  How to reach me: fmagesty@gmail.com
+
+# Current projects/activity: 
+- [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in React web 
+- A mobile app for matching players of an online game in React Native + Rails + MongoDB (dockerized)
+- Taking Harvard's CS50 classes (intro to CS) to get some formal foundation in CS and at least some degree of knowledge in a low level language like C. The course is free and anyone can assign to it [here](https://cs50.harvard.edu/x/2022/)
