@@ -33,12 +33,26 @@
 <p align="center">
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=fmagesty&show_icons=true&locale=en"
-    alt="fmagesty"
+    src="https://github-readme-stats.vercel.app/api?username=melipefelgaco&show_icons=true&locale=en"
+    alt="melipefelgaco"
   />
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=fmagesty&"
-    alt="fmagesty"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=melipefelgaco&"
+    alt="melipefelgaco"
   />
 </p>
+
+<div align="center">
+  <p>Hey, my name is Felipe. Welcome to my personal GitHub profile! I usually upload personal projects here, but feel free to contribute to any project if you feel like it. Just keep in mind that the projects I upload here are usually just for fun and quick prototyping. As a result, they may not have the same level of documentation or testing as my professional work. However, I still value good coding practices and write tests for my work projects.</p>
+  
+  <p>If you come across any project that you want to use personally and/or contribute to an existing repository here, but find missing documentation/tests, feel free to send me an email, and I will be glad to help out with that.</p>
+
+  <p>Aside from that, I'm always interested in learning new technologies and improving my current stack, so I'm open to hearing about any ideas you might have that I could contribute to as well.</p>
+  
+  <p>I have no idea what else to write here, so here's hoping you have a good day, and remember to stay hydrated!</p>
+  
+  <p>Cheers!</p>
+</div>
+
+
