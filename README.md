@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felipe</h1>
+<h1 align="center">Hi 👋, I'm Felipe. Welcome to my personal GitHub profile!</h1>
 
 <div align="center">.
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL" /></code>
@@ -26,33 +26,3 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" /></code>
 </div>
-
-
-&nbsp;
-
-<p align="center">
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=melipefelgaco&show_icons=true&locale=en"
-    alt="melipefelgaco"
-  />
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=melipefelgaco&"
-    alt="melipefelgaco"
-  />
-</p>
-
-<div align="center">
-  <p>Hey, my name is Felipe. Welcome to my personal GitHub profile! I usually upload personal projects here, but feel free to contribute to any project if you feel like it. Just keep in mind that the projects I upload here are usually just for fun and quick prototyping. As a result, they may not have the same level of documentation or testing as my professional work. However, I still value good coding practices and write tests for my work projects.</p>
-  
-  <p>If you come across any project that you want to use personally and/or contribute to an existing repository here, but find missing documentation/tests, feel free to send me an email, and I will be glad to help out with that.</p>
-
-  <p>Aside from that, I'm always interested in learning new technologies and improving my current stack, so I'm open to hearing about any ideas you might have that I could contribute to as well.</p>
-  
-  <p>I have no idea what else to write here, so here's hoping you have a good day, and remember to stay hydrated!</p>
-  
-  <p>Cheers!</p>
-</div>
-
-
