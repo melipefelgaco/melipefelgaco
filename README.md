@@ -11,10 +11,19 @@ Paused the Unity C# project for now but sometimes will code for that too, it is 
 
 Here's a bird in ASCII:
 ```
-   \\
-    (o>   KA-CHAW!
-\\_//)
- \_/_)
-  _|_
+          \\__
+         --==  (o>   KA-CHAW!
+           \\_//)
+\\\\       \_/_)
+   \\\\    // \\
+ \\\      (|   |)
+         /'|   |`\
+        /  |   |  \
+       /   |   |   \
+      /    |   |    \
+     /_____|___|_____\
+           /   \
+          /     \
+         /_______\
 ```
 His name is Ronaldo
