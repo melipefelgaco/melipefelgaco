@@ -2,8 +2,6 @@
 
 <br>
 
-Currently studying procedural generation for various intents and making a traditional roguelike game
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1b32fd78-9dce-443c-9fa6-f1c864e103e1" width="400" />
   <img src="https://github.com/user-attachments/assets/a1c92ec4-016c-4386-9608-16b0771c8aeb" width="400" />
