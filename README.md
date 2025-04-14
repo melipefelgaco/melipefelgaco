@@ -27,11 +27,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ---
 
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 fmagesty@gmail.com
-  
----
-
 > *Currently open to opportunities as a Full Stack Developer. Curious, collaborative, and passionate about writing clean, scalable code.*
