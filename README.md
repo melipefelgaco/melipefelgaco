@@ -13,7 +13,6 @@
 - 🧠 Self-taught — learned through real projects, bootcamps, and AWS certifications  
 - 🧑‍🏫 Volunteer at [PodCodar Code School](https://podcodar.org), fostering collaborative learning  
 - 🌱 Currently learning *kubernetes*
-- 👷‍♂️ Currently building a non-profit delivery app on my free time while testing new technologies
 ---
 
 ### 🧰 Most used languages
@@ -28,7 +27,7 @@
 
 [![Front-end](https://skillicons.dev/icons?i=react,next,tailwind,jest,selenium,nextjs)]()
 
-[![Back-end](https://skillicons.dev/icons?i=deno,nodejs,nest,aws,terraform,docker,kubernetes,redis)]()
+[![Back-end](https://skillicons.dev/icons?i=deno,nodejs,nest,aws,terraform,docker,kubernetes,redis,rails)]()
 
 [![Storage](https://skillicons.dev/icons?i=postgres,redis,dynamodb,mongo,sqlite)]()
 
