@@ -11,20 +11,25 @@
 
 - 🌍 Remote international experience with clients in the US, Brazil, and Europe  
 - 🧠 Self-taught — learned through real projects, bootcamps, and AWS certifications  
-- 🛠️ Main stack: **TypeScript, React, Node.js, AWS, Docker**  
-- 💼 Experience as freelancer, tech lead, and mentor in tech communities  
-- 🧑‍🏫 Volunteer at [PodCodar Code School](https://podcodar.com.br), fostering collaborative learning  
+- 🧑‍🏫 Volunteer at [PodCodar Code School](https://podcodar.org), fostering collaborative learning  
+- 🌱 Currently learning *kubernetes*
+- 👷‍♂️ Currently building a non-profit delivery app on my free time while testing new technologies
 ---
 
-### 🧰 Tech Stack
+### 🧰 Most used languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,ruby)]()
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
----
+
+### Some experience with...
+[![My Skills](https://skillicons.dev/icons?i=python,c)]()
+
+### Tools I like to work with...
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,neovim,bash)]()
+
+[![Front-end](https://skillicons.dev/icons?i=react,next,tailwind,jest,selenium,nextjs)]()
+
+[![Back-end](https://skillicons.dev/icons?i=deno,nodejs,nest,aws,terraform,docker,kubernetes,redis)]()
+
+[![Storage](https://skillicons.dev/icons?i=postgres,redis,dynamodb,mongo,sqlite)]()
 
 > *Currently open to opportunities as a Full Stack Developer. Curious, collaborative, and passionate about writing clean, scalable code.*
