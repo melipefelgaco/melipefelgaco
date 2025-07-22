@@ -12,7 +12,6 @@
 - 🌍 Remote international experience with clients in the US, Brazil, and Europe  
 - 🧠 Self-taught — learned through real projects, bootcamps, and AWS certifications  
 - 🧑‍🏫 Volunteer at [PodCodar Code School](https://podcodar.org), fostering collaborative learning  
-- 🌱 Currently learning *kubernetes*
 ---
 
 ### 🧰 Most used languages
