@@ -1,12 +1,5 @@
 <h1 align="center">👋 Hi, I'm Felipe — Full Stack Developer</h1>
 
-<p align="center">
-  Self-taught Full Stack Developer with 5+ years of experience building scalable web and mobile apps.<br>
-  I work remotely with teams across Brazil, the US, and Europe, delivering real-world solutions.
-</p>
-
----
-
 ### 🚀 About Me
 
 - 🌍 Remote international experience with clients in the US, Brazil, and Europe  
@@ -28,6 +21,6 @@
 
 [![Back-end](https://skillicons.dev/icons?i=deno,nodejs,nest,aws,terraform,docker,kubernetes,redis,rails)]()
 
-[![Storage](https://skillicons.dev/icons?i=postgres,redis,dynamodb,mongo,sqlite)]()
+[![Storage](https://skillicons.dev/icons?i=postgres,dynamodb,mongo,sqlite)]()
 
 > *Currently open to opportunities as a Full Stack Developer. Curious, collaborative, and passionate about writing clean, scalable code.*
