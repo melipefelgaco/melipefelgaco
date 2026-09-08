@@ -24,5 +24,3 @@
 [![Storage](https://skillicons.dev/icons?i=postgres,dynamodb,mongo,sqlite)]()
 
 > *Currently open to opportunities as a Full Stack Developer. Curious, collaborative, and passionate about writing clean, scalable code.*
-
-...?
